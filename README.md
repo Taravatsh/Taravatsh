@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋, I'm Taravat Sharafat </h1>
 
-<p align='center'> <samp>Aeronautical Engineer | Data Analyst | Data Visualizer </samp></p>
+<p align='center'> <samp>Aeronautical Engineer | Sofware Engineer | Data Analyst </samp></p>
 <p align='center'>
   &nbsp;
   <a href="mailto:taravatsharafat97@gmail.com"><img height="30px" width="30px" src="https://raw.githubusercontent.com/taravatsh/taravatsh/main/assets/icons8-gmail.svg"/></a>
